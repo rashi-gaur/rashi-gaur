@@ -34,12 +34,22 @@ ECE Student | Embedded Systems | DSP | Research Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-gaur&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-gaur&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## ✨ Goals for 2026
+
+- Build strong ECE projects
+- Contribute to open source
+- Publish research-oriented work
+- Strengthen DSA and core subjects
+- Create impactful technical repositories
 ## ✨ Goals for 2026
 
 - Build strong ECE projects
