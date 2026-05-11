@@ -22,13 +22,17 @@ ECE Student | Embedded Systems | DSP | Research Enthusiast
 
 ## 🛠 Tech Stack
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
 
-![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+
+<img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino" />
+
+</p>
 
 ---
 
