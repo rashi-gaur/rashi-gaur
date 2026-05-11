@@ -50,13 +50,6 @@ ECE Student | Embedded Systems | DSP | Research Enthusiast
 - Publish research-oriented work
 - Strengthen DSA and core subjects
 - Create impactful technical repositories
-## ✨ Goals for 2026
-
-- Build strong ECE projects
-- Contribute to open source
-- Publish research-oriented work
-- Strengthen DSA and core subjects
-- Create impactful technical repositories
 
 ---
 
