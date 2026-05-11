@@ -1,6 +1,8 @@
-# Hi, I'm Rashi 👋
+<h1 align="center">Hi 👋, I'm Rashi</h1>
 
-🎓 BTech ECE Student  
+<h3 align="center">
+ECE Student | Embedded Systems | DSP | Research Enthusiast
+</h3>
 🔬 Interested in Embedded Systems, Communication Systems & Research  
 💻 Exploring DSA, DSP, ARM Architecture and AI-assisted development  
 📚 Currently learning: MPMC, DSP, EMTL  
