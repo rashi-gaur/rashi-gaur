@@ -32,12 +32,13 @@ ECE Student | Embedded Systems | DSP | Research Enthusiast
 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-gaur&layout=compact&theme=tokyonight" height="180em"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-gaur&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ## ✨ Goals for 2026
 
