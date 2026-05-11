@@ -31,13 +31,15 @@ ECE Student | Embedded Systems | DSP | Research Enthusiast
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true&theme=tokyonight" height="180em"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-gaur&layout=compact&theme=tokyonight" height="180em"/>
+
+</p>
 ## ✨ Goals for 2026
 
 - Build strong ECE projects
