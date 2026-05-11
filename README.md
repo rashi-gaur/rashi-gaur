@@ -31,14 +31,11 @@ ECE Student | Embedded Systems | DSP | Research Enthusiast
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-gaur&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashi-gaur&theme=tokyonight" />
 </p>
 
 ---
