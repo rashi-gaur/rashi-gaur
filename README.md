@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashi</h1>
 
-<h3 align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=ECE+Student;Embedded+Systems+Enthusiast;DSP+%7C+ARM+Architecture+%7C+Research;Building+Projects+with+Purpose" />
+</p>
 ECE Student | Embedded Systems | DSP | Research Enthusiast
 </h3>
 🔬 Interested in Embedded Systems, Communication Systems & Research  
