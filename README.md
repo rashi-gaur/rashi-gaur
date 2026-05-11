@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Rashi 👋
 
-<!--
-**rashi-gaur/rashi-gaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech ECE Student  
+🔬 Interested in Embedded Systems, Communication Systems & Research  
+💻 Exploring DSA, DSP, ARM Architecture and AI-assisted development  
+📚 Currently learning: MPMC, DSP, EMTL  
+🚀 Building projects that connect hardware and software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+- ARM Architecture Notes
+- DSA Problem Solving
+- DSP with Python
+- Research-oriented ECE projects
+
+---
+
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
+
+---
+
+## 📊 GitHub Stats
+
+![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashi-gaur&show_icons=true)
+
+---
+
+## ✨ Goals for 2026
+
+- Build strong ECE projects
+- Contribute to open source
+- Publish research-oriented work
+- Strengthen DSA and core subjects
+- Create impactful technical repositories
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/rashi-gaur
